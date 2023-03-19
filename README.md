@@ -8,15 +8,10 @@
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
   <br />
-  Hi, I am a professional and passionate web and mobile developer with over 5 years of experience in remote work.
-  
-  During this period, I handled many Web and mobile projects using  React, Next.js, React-native, Native Android, Swift, Flutter, Tailwind, MUI, Google Firebase, and AWS.
-  
-  The work experience links above are some of my previous ones.
-  
-  If you provide a design, I can turn it into an app that perfectly matches your design (works on any device) and works just like a design prototype.
-  
-  I will do my best for your project and business goals and bring all my success and experience to your business.
+  Passionate and highly-skilled full stack developer who loves the
+multiple technologies. More than 10 years of experience in the IT field development of fulltested, well structured, continuously maintainable apps.
+With strong attention to detail and accuracy and the important ability to function well in a team
+setting, I’ll always provide you with the perfect result that you want.
 
  <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
