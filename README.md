@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, Software Engineer </a></h1>
 <br/>   
-    I am a full-stack engineer who has mastered the front-end technology. You can find me on Talagram, or on LinkedIn.
+    I am a full-stack engineer who has mastered the front-end technology. You can find me on Talagram, skype, phone, or on LinkedIn.
 <br/>
  <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 ## About me
@@ -77,6 +77,6 @@
     </tr>
     <table>
     <div align="center"  width="100%">
-        <img src="https://github-profile-trophy.vercel.app/?username=Dima0dev&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10">
+        <h1 align="center"> Time is a created thing. To say 'I don't have time,' is like saying, 'I don't want to. </a></h1>
+        <h1 align="center"> To implement is to speak. </a></h1>
     </div>
-    <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
