@@ -77,6 +77,5 @@
     </tr>
     <table>
     <div align="center"  width="100%">
-        <h1 align="center"> Time is a created thing. To say 'I don't have time,' is like saying, 'I don't want to. </a></h1>
-        <h1 align="center"> To implement is to speak. </a></h1>
+        <h3 align="center"> Time is a created thing. To say 'I don't have time,' is like saying, 'I don't want to. To implement is to speak. </a></h3>
     </div>
