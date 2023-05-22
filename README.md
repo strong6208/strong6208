@@ -63,20 +63,7 @@
     <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
-
-## 💻 GitHub Stats
-
-<table width="100%">
-    <tr>
-        <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Dima0dev&show_icons=true&hide_border=true" /> 
-        </td>
-        <td> 
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dima0dev&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
-        </td>
-    </tr>
-    <table>
-    <div align="center"  width="100%">
-        <h2 align="center"> Time is a created thing. To say "I don't have time," is like saying, "I don't want to". </a></h2>
-        <h2 align="center"> To implement is to speak. </a></h2>
-    </div>
+<div align="center"  width="100%">
+    <h2 align="center"> Time is a created thing. To say "I don't have time," is like saying, "I don't want to". </a></h2>
+    <h2 align="center"> To implement is to speak. </a></h2>
+</div>
