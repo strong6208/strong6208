@@ -5,7 +5,7 @@
  <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 ## About me
 <h4 align="left">
-    - 〆 Full-Stack🎯 who specializes in Front end 👨🏻‍💻 
+    - 〆 Full-Stack🎯 and Blockchain  Developer 👨🏻‍💻 
     <br>
     <br>
     - 〆 Bachelor's degree in Computer Science</a> 🎓
@@ -23,7 +23,7 @@
     - 〆 Looking to collaborate on **Open source contributions**
     <br>
     <br>
-    - 💬 Ask me about **React, Vue, Next, SvelteKit**
+    - 💬 Ask me about **react, vue, Solidity**
 </h4>
 
 <h3 align="left">🛠️ Web Tech Stack :</h3>
@@ -43,18 +43,16 @@
         <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
         <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
         <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-        <img alt="SvelteKit" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
         <img alt="Vue" src="https://camo.githubusercontent.com/372b662f4b2de885acce0f4619ab56a4ed9259d577cbdac8933b293d6e6f9f3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7675656a732d2532333335343935652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d767565646f746a73266c6f676f436f6c6f723d253233344643303844"/>
         <img alt="Angular" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
         <img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
     </div>
 <h3 align="left">Languages :</h3>
+    <div align="left">
     <img alt="Solidity" src="https://img.shields.io/badge/solidity-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-    <img alt="Svelte" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="Go" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/> 
     <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     </div>
 
